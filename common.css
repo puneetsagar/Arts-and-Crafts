@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital@1&display=swap');
+*{
+margin: 0;
+padding: 0;
+}
+.navbar{
+    background:#ED4C67;
+}
+a{
+    color:#fff;
+    
+}
+.eff{
+    background:#ca314b;
+    
+}
+.eff:hover{
+    color: #fff;
+}
+.whole{
+    background:#9AECDB;
+}
+.row{
+    background: none;
+}
+.def:hover{
+    color:#FC427B;
+    text-decoration:none;
+    outline:none;
+}
+.add{
+    font-family: 'Playfair Display', serif;
+    color:#B33771;
+}
+.modal-title{
+    font-family: 'Playfair Display', serif;
+    color:#ED4C67;
+}
+.btn-color{
+background-color:#ED4C67;
+color: #fff;
+}
+.field{
+    border-color: #ED4C67;
+    border-radius: 25px;
+    outline: none;
+
+}
+.outline{
+    outline: none;
+    border: none;
+
+}
+.outline:focus{
+    outline: none;
+    border: none;
+}
+.nav-link{
+    cursor: pointer;
+}
+.btn-color{
+    background:#ED4C67;
+    outline:none;
+    border:#ED4C67;
+    border-radius: 5px;
+    padding: 5px;
+}
